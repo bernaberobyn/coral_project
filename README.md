@@ -37,3 +37,6 @@ This notebook is used for training various models using VGG16 model as a base mo
 
 ### coral-project(7)-vgg16-testing [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/maryrobynbernabe/coral-project-7-vgg16-testing)
 This notebook is used for testing the best model acheived out of VGG16 experiments.
+
+### (app.py)[https://github.com/bernaberobyn/coral_project/blob/main/app.py]
+This is the code for streamlit dashboard deployed in streamlit cloud and can be accessed from (here)[https://healthyandbleachedcorals.streamlit.app/]
