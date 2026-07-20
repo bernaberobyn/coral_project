@@ -1,0 +1,5 @@
+streamlit
+requests
+json
+base64
+pillow
